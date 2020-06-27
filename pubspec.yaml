@@ -35,14 +35,14 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_launcher_icons: any
-flutter_icons:
-  ios: true
-  android: true
-  image_path_ios: "assets/logo.png"
-  image_path_android: "assets/logo.png"
-  adaptive_icon_background: "assets/logo.png"
-  adaptive_icon_foreground: "assets/logo.png"
+#   flutter_launcher_icons: any
+# flutter_icons:
+#   ios: true
+#   android: true
+#   image_path_ios: "assets/logo.png"
+#   image_path_android: "assets/logo.png"
+#   adaptive_icon_background: "assets/logo.png"
+#   adaptive_icon_foreground: "assets/logo.png"
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
@@ -71,10 +71,10 @@ flutter:
   # "family" key with the font family name, and a "fonts" key with a
   # list giving the asset and other descriptors for the font. For
   # example:
-  fonts:
-    - family: Calibri
-      fonts:
-        - asset: fonts/Calibri Regular.ttf
+#   fonts:
+#     - family: Calibri
+#       fonts:
+#         - asset: fonts/Calibri Regular.ttf
           # weight: 300
   #   - family: Trajan Pro
   #     fonts:
